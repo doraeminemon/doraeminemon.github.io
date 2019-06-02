@@ -1,4 +1,9 @@
-module.exports = {
+let pdf = {};
+if (process.env.PDF_MODE && process.env.PDF_MODE == true) {
+  pdf = require('./config.pdf');
+}
+
+const config = {
   title: "Đỗ Đình Thy Sơn",
   description: "Software engineer",
   head:[
@@ -12,6 +17,7 @@ module.exports = {
       { text: 'Blog', link: '/category/' },
       { text: 'Repo', link: 'https://github.com/doraeminemon/doraeminemon.github.io' },
     ],
+    sidebar: 'auto',
     lastUpdated: 'Last Updated',
   },
   plugins: [
@@ -34,4 +40,9 @@ module.exports = {
     ]
   ],
   evergreen: true,
+}
+
+module.exports = {
+  ...config,
+  ...pdf,
 }

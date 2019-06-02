@@ -6,7 +6,6 @@ meta:
     content: My personal experience
   - name: keywords
     content: full-stack engineer software developer
-sidebar: auto
 pageClass: resume-class
 ---
 <h1 class='display'> Đỗ Đình Thy Sơn </h1>
