@@ -5,7 +5,7 @@
   },
   "scripts": {
     "serve": "vuepress dev docs",
-    "serve:pdf":"export PDF_MODE=1;vuepress dev docs",
+    "serve:pdf": "export PDF_MODE=1;vuepress dev docs",
     "docs:dev": "vuepress dev docs",
     "prebuild": "rm -rf node_modules && yarn install",
     "docs:build": "yarn prebuild && vuepress build docs && yarn postbuild",

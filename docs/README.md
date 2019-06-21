@@ -5,7 +5,7 @@ meta:
   - name: description
     content: My personal experience
   - name: keywords
-    content: full-stack engineer software developer
+    content: full-stack engineer software developer full stack team lead
 pageClass: resume-class
 ---
 <h1 class='display'> Đỗ Đình Thy Sơn </h1>
@@ -15,6 +15,7 @@ pageClass: resume-class
 [LinkedIn](https://www.linkedin.com/in/đỗ-đình-thy-sơn-532b7886)
 [Github](https://github.com/doraeminemon)
 [Email](mailto:dodinhthyson@gmail.com)
+[PDF](https://github.com/doraeminemon/doraeminemon.github.io/releases/download/0.1.0/Do.Dinh.Thy.Son._.D.Dinh.Thy.S.n.pdf)
 :::
 
 ## Personal statement
@@ -43,7 +44,13 @@ Hi, my name is Sơn, or you can just call me Tyson. I’m a software engineer wh
 
 ## Work experience
 ### InApps Technology
-2018 - Present
+Oct 2018 - Present
+
+Full Stack Team Lead
+Manage team daily operation task.
+Support team on development and devops task mainly with VueJS front end and NodeJS backend.
+Develop plan and framework for contigency as well as improve team efficiency.
+Weekly short seminar to improve team knowledge on debugging, problem solving and devops skill, as well as standardized team's framework and 3rd party dependencies.
 
 Backend Engineer / IT Offshore / Beta Particle – US
 Work as a developer to develop and deploy websites written in Swift¬¬
