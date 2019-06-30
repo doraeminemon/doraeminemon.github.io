@@ -20,6 +20,7 @@ const config = {
     sidebar: 'auto',
     lastUpdated: 'Last Updated',
   },
+  ga: "UA-136220810-2",
   plugins: [
     [
       'container',
