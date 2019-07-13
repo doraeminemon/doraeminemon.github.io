@@ -16,7 +16,7 @@ pageClass: resume-class
 |
 [Github](https://github.com/doraeminemon)
 |
-[CV PDF](https://github.com/doraeminemon/doraeminemon.github.io/releases/download/0.1.0/Do.Dinh.Thy.Son._.D.Dinh.Thy.S.n.pdf)
+[CV PDF](https://github.com/doraeminemon/doraeminemon.github.io/releases/download/0.2.0/DoDinhThySon.CV-NodeJS.team.lead-July.2019.pdf)
 |
 [Email](mailto:dodinhthyson@gmail.com)
 |
