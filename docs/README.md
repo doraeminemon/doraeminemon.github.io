@@ -16,7 +16,7 @@ pageClass: resume-class
 |
 [Github](https://github.com/doraeminemon)
 |
-[CV PDF](https://github.com/doraeminemon/doraeminemon.github.io/releases/download/0.2.0/DoDinhThySon.CV-NodeJS.team.lead-July.2019.pdf)
+[CV PDF](https://github.com/doraeminemon/doraeminemon.github.io/releases/download/0.3.0/DoDinhThySon.CV-NodeJS.team.lead-July.2019.pdf)
 |
 [Email](mailto:dodinhthyson@gmail.com)
 |
@@ -75,7 +75,7 @@ Technologies
   -	Docker
 
 ### Innovatube
-2016-July 2017
+2016-July 2018
 
 Shoubotenken project is a platform where building auditors can join, bid, and participate to audit projects in Japan
 -	Developing a mobile client using React Native, GraphQL, Mapbox
@@ -117,7 +117,7 @@ Mr. Eugene Nguyen – Innovatube Lead Project Manager
 
 ## Education
 ### James Cook University Singapore
-2013 - 2014
+2013 - 2015
 
 Bachelor of IT – Game design major
 -	Game design using Unity engine
