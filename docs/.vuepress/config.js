@@ -20,7 +20,6 @@ const config = {
     sidebar: 'auto',
     lastUpdated: 'Last Updated',
   },
-  ga: "UA-136220810-2",
   plugins: [
     [
       'container',
@@ -38,7 +37,13 @@ const config = {
         tagIndexpageUrl: "/tag/",
         permalink: "/:year/:month/:day/:slug"
       }
-    ]
+    ],
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': "UA-144171621-1",
+      },
+    ],
   ],
   evergreen: true,
 }
