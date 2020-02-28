@@ -26,31 +26,45 @@ pageClass: resume-class
 ## Personal statement
 Hi, my name is Sơn, or you can just call me Tyson. I’m a software engineer who worked on multiple languages so quick learning has become one of my skillset. "Get things work, fast" has been drilled into me during multiple start up projects. Beside that, I am interested as well as understand the business to focus on the business end goal to made the best technical choices. Above all, I’m a team player who can ignore any personal issues to achieve the team’s goal.
 ## Technical skill
-### Front-end
-- Bootstrap, Responsive design, React, VueJS
-### Mobile
-- React Native on both iOS and Android
--	Swift for native iOS app, using RxSwift, MVVM, Realm, Moya, etc.
-### Back-end
--	ExpressJS on top of NodeJS using Typescript
--	Elixir with Phoenix framework
--	SQL: PostgreSQL, MySQL.
--	Deployment with Docker and AWS.
--	Swift for backend using Vapor framework
--	PHP Laravel
+### Mobile :
+- iOS Swift
+- iOS ObjectiveC
+- React Native
+### Frontends
+- React
+- Vue
+- Mobx
+- GraphQL
+### Backend
+- LaravelPHP
+- NodeJS Javascript
+- NodeJS Typescript
+- Golang
+- Django
 ### Dev Ops
+- Docker, Kubernetes, Terraform
 -	Microservices architecture using Docker and Docker-compose
 - CI / CD for React Native using Appcenter.ms
--	Familiar with AWS S3, EC2 and its family, AMI
 -	Firewall and subnet configuration in Google Cloud & AWS
+- Slackbot
+- N8N
+- Amazon Postgres RDS, Amazon S3, Amazon Cloudfront, Amazon Cloudwatch, Amazon EC2, Amazon DMS
+- Postgres, MySQL, Hasura Graphql engine
 ### Others
 -	TDD / BDD with native code ( Elixir, Mocha & Chai, Enzyme ) or tools ( Postman, Swagger, etc. )
 -	E2E testing using Python Selenium,Cypress, integrate it with production environment using Docker and Concourse
 -	Git standard
 
 ## Work experience
+### Pickupp
+September 2020 - Present
+
+Senior Developer
+- Integrated within 1 week with team on multiple technologies, such as Docker, React Native, Papertrail, CircleCI
+- Develop a stable deployment process for migration first from Postgres to Aurora Postgres RDS, then create data warehouse pooling from 5 databases regions, with 13 micro-services each.
+
 ### InApps Technology
-May 2019 - Present
+September 2019 - September 2020
 
 Full Stack Team Lead
 Manage team daily operation task.
@@ -126,3 +140,21 @@ Bachelor of IT – Game design major
 -	Participate in Vietnamese community as a President for 2 trimesters. Active member throughout study period
 
 
+## Exhaustive list of projects & technologies
+- Jmango mobile app ( maintain ) : iOS ObjectiveC
+- Inploi ( maintain ) : iOS Swift RxSwift
+- 3Clicks : iOS Swift RxSwift
+- Shoubotenken : ReactNative, NodeJS, GraphQL, Javascript
+- Tu Dien Dong Nghia ( Vietnamese thesaurus ) : Elixir Phoenix, VueJS Javascript
+- Personal website ( thyson.dev ) : VueJS Vuepress Javascript
+- SwiftEngine ( maintain ) : Backend Swift, Docker
+- Pushtrain: Laravel PHP, VueJS, Javascript, Terraform, Docker, MySQL
+- DeliverContainers.com : VueJS, NodeJS, Typescript, Javascript, Docker, Postgres
+- Pickupp platform : React, Redux, Mobx, React Native, NodeJS, Golang, Docker
+- Pickupp data warehouse : NodeJS scripting, Javascript, Postgresql
+- Belazy : Django, Python
+
+## Life achievements
+
+- Gaining ~20kg of weight since 2015 years old. Maintain good body composition throughout the process.
+- Stable salary & skill growth rate since start of career.
