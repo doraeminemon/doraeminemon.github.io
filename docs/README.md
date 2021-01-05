@@ -20,7 +20,8 @@ pageClass: resume-class
 :::
 
 ## Personal statement
-Hi, my name is Thy Sơn, or you can just call me Tyson. Having worked on multiple problem domain allow me to build . "Get things work, fast" has been drilled into me during multiple start up projects. Beside that, I am interested as well as understand the business to focus on the business end goal to made the best technical choices. Above all, I’m a team player who can ignore any personal issues to achieve the team’s goal.
+Hi, my name is Thy Sơn, or you can just call me Tyson. Having worked on multiple projects and multiple teams, I see my strength is the ability to abstract problem, research it and find the most suitable existing solution. Beside that, effective writing & speaking communication, organizing data is a must when I have to work with my team remotely. What I'm still working on is my responsibility and carefulness while working with production system.
+
 Beside the original scope of a software engineer, I've been interested and learn about different-yet-related aspect of building software, including but not limited to: graphic / UX design, math, economics, business, psychology, politics.
 ## Technical skill
 ### Tools in use :
@@ -57,14 +58,19 @@ Golang, NodeJS, tailwind-css, React, React Native ( iOS )
 ## Work experience
 ### Pickupp
 September 2020 - Present
+
 A lot of thanks to the teammate who got my back and helped me grow: Stan Ley, Clong & Lan Nguyen.
 - Delivery Agent’s Wallet features: database structure for calculating agent’s wallet balance, ensuring performance and accuracy using NodeJS ( requiring using exact-math, number-as-string to ensure calculation are correct despite JS’s floating point ). There are some problem along the way but my team & I have fixed it.
+
 - Data warehouse on Postgres using AWS’s Database Migration System ( WAL replication ): using terraform and some js script, created a system to pipe data from 4 regional databases into a single read-only warehouse, ensuring performance & reliability of data of the data warehouse and all regional databases.
-- Product split refactor : with a lot of help from teammate, I sketch out the major structure for a big refactor for the “order state” within the system to allow different delivery product type be build up from the original. This system is similar to a state-machine where depends on the original state + conditions of order, will allow certain next-state to be achieved. The new system also make it easier re-use parts of the transition & enhance code readability.
+
+- Product split refactor : with a lot of help from teammate, I sketch out the major structure for a big refactor for the “order state” within the system to allow different delivery product type be build up from the original. This system is similar to a state-machine where depends on the original state + conditions of order, will allow certain next-state to be achieved. The new system also make it easier re-use parts of the transition & enhance code readability. It's still far from the ideal "pure function" that I've set out but still one of my best work.
+
 - Job-system clustering algorithm: implementing hierarchical clustering for a trip-grouping system, based on the “flying distance” between pickup & dropoff distance differences. This involve a smart ( math ) way of merging conditions of cluster instead of using typical “binary” logic.
 
 ### InApps Technology
 September 2019 - September 2020
+
 A lof of thanks to Tri Nguyen - CTO and Tam Nguyen - CEO who supports me to deal with technical & management problems.
 
 Full Stack developer
@@ -91,6 +97,7 @@ Technologies
 
 ### Innovatube
 2016-July 2018
+
 Pardon to teammate who bear my problem: Hayley, Tarah worked as PM, Tu Nguyen worked as designer, Bella worked as QA.
 
 Shoubotenken project is a platform where building auditors can join, bid, and participate to audit projects in Japan
