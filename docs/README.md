@@ -57,7 +57,7 @@ Golang, NodeJS, tailwind-css, React, React Native ( iOS )
 
 ## Work experience
 ### Pickupp
-September 2020 - Present
+October 2019 - Present
 
 A lot of thanks to the teammate who got my back and helped me grow: Stan Ley, Clong & Lan Nguyen.
 - Delivery Agent’s Wallet features: database structure for calculating agent’s wallet balance, ensuring performance and accuracy using NodeJS ( requiring using exact-math, number-as-string to ensure calculation are correct despite JS’s floating point ). There are some problem along the way but my team & I have fixed it.
@@ -69,7 +69,7 @@ A lot of thanks to the teammate who got my back and helped me grow: Stan Ley, Cl
 - Job-system clustering algorithm: implementing hierarchical clustering for a trip-grouping system, based on the “flying distance” between pickup & dropoff distance differences. This involve a smart ( math ) way of merging conditions of cluster instead of using typical “binary” logic.
 
 ### InApps Technology
-September 2019 - September 2020
+May 2019 - Oct 2019
 
 A lof of thanks to Tri Nguyen - CTO and Tam Nguyen - CEO who supports me to deal with technical & management problems.
 
@@ -122,6 +122,9 @@ iOS Developer
 
 ## Personal projects
 
+### Miracle Group website
+Got me toying with a lot of new tools tailwind-css, netlify/gatsby CMS, webgl shader. Sadly project got cut halfway due to client dropping contract. Got pretty far with Netlify CMS & Tailwind, these are both productive tools which can be used in production. WebGL is such a beast to master because it's related to OpenGL.
+
 ### Vietnamese thesaurus – DongNghia.vn
 -	Currently early stage
 -	Classic RESTful website to experiment with Phoenix framework
@@ -148,6 +151,21 @@ Bachelor of IT – Game design major
 -	Studying algorithm and basic programming theories and concept
 -	Participate in Vietnamese community as a President for 2 trimesters. Active member throughout study period
 
+## Readings / Experiments
+- Category theory for programmer: not finished, touched on some topic regarding basic category, how it’s related to programming, why it’s the ideal way of doing things. Really want to finish sometimes soon due to its breadth and applicability.
+- The book of shader : writing & toying with some basic shader, render mostly 2D graphics and some liquid-like shader using 2D complex noise. Still struggle to render a 3d cube from scratch.
+- Finished Andrew Ng’s Machine Learning course on Coursera: all exercises done with required mark. Got some understanding & intuition regarding matrix multiplication and power of GPU.
+
+## Opinions
+- Golang are good in teams with different level of seniority levels. Very bad at addressing cross-cutting concerns of logic. Should have better way to “merge” objects. go-pg are bad due to treating all null as zero values.
+- NodeJS: flexible and can be really powerful in the right hand. With some instructions & eslint conditions can be really adapt to any team. Number are a big pain when system need to address accuracy of numbers. Package ecosystem are in disarray because of too much people who think they are doing something new instead of search & contribute.
+- Functional programming beats OOP hands down, first for easy scaling when refactor, second for debuggable system. FP with strong type language is the best system for maintaining / refactoring. To quote functional programming - a pragpub anthology : “FP’s recognized good fit for concurrency appeals to people writing multi-processor apps, high-availability apps, web servers for the social network, and more. FP’s higher-level abstractions appeal to those looking for faster development time or more understandable code. FP’s emphasis on immutability has a strong appeal for anyone concerned about reliability.”
+- Within functional programming language, currently there aren’t any language which satisfy all these:
+    - Popular enough to have a healthy ecosystem ( including: package, tooling, deployment service )
+    - Have good type system
+    - Have a pipe operator
+    - Typescript is the closest we can get to all 3
+    - Elixir is have a lot of strength mentioned, but seems like still waiting for some big company to adopt
 
 ## Exhaustive list of projects & technologies
 - Jmango mobile app ( maintain ) : iOS ObjectiveC
