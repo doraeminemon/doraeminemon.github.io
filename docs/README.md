@@ -10,6 +10,7 @@ pageClass: resume-class
 ---
 <h1 class='display'> Đỗ Đình Thy Sơn </h1>
 <div class='subtitle'><em>Full-stack developer, 5 years experiences in multiple domain, fluent in JS & Golang</em></div>
+<div class='subtitle'><em>Reading time: 5 minutes 27 seconds</em></div>
 
 ::: contacts
 [LinkedIn](https://www.linkedin.com/in/đỗ-đình-thy-sơn-532b7886)
@@ -42,32 +43,32 @@ A lot of thanks to the teammate who got my back and helped me grow: Stan Ley, Cl
 
 May 2019 - Oct 2019: Back End Team Lead for multiple outsource projects, mostly CRUD web / mobile app: Deliverycontainers.com, Fanathon, Travelr
 
-Manage team daily operation tasks.
-Support team on development and deploy tasks using CI/CD, integrated with VueJS front end and NodeJS backend.
-Develop plan and framework for contingency as well as improve team efficiency.
-Weekly short seminar to improve team knowledge on debugging, problem -solving and DevOps skill, as well as standardized team's framework and 3rd party dependencies.
+- Manage team daily operation tasks.
+- Support team on development and deploy tasks using CI/CD, integrated with VueJS front end and NodeJS backend.
+- Develop plan and framework for contingency as well as improve team efficiency.
+- Weekly short seminar to improve team knowledge on debugging, problem -solving and DevOps skill, as well as standardized team's framework and 3rd party dependencies.
 
 Oct 2018 - May 2019: Backend Engineer for SwiftEngine.io - Serverless Backend platform for Swift
 
-Work as a developer to develop and deploy websites written in Swift, as well as ops related system.
+- Work as a developer to develop and deploy websites written in Swift, as well as ops related system.
 
 A lot of thanks to Tri Nguyen - CTO and Tam Nguyen - CEO who supports me to deal with technical & management problems.
 
 ### Innovatube
 2016-July 2018: iOS Developer
 
-Shoubotenken project is a platform where building auditors can join, bid, and participate in audit projects in Japan
--	Developing a mobile client using React Native, GraphQL, Mapbox
--	Using a custom template to render more than 100s of forms, along with their documents
--	Solve many client-side problem and problems related to only a specific platform
--	Maintain good performance on both platform and multiple device types
--	Help setting up and maintain a CI/CD pipeline using Visual Studio App center
+- Shoubotenken project is a platform where building auditors can join, bid, and participate in audit projects in Japan
+  -	Developing a mobile client using React Native, GraphQL, Mapbox
+  -	Using a custom template to render more than 100s of forms, along with their documents
+  -	Solve many client-side problem and problems related to only a specific platform
+  -	Maintain good performance on both platform and multiple device types
+  -	Help setting up and maintain a CI/CD pipeline using Visual Studio App center
 
-3Clicks ( 3Clicks.co ) project is a platform for buying and selling services in Singapore
--	Solo developing a mobile client using native Swift, RxSwift, Realm
--	Develop a chat client with multiple additional functions using Firebase ( now Firebase Realtime Database )
--	Handle smart links and solving smart link routing problems
--	Setting up a CI/CD pipeline using BuddyBuild
+- 3Clicks ( 3Clicks.co ) project is a platform for buying and selling services in Singapore
+  -	Solo developing a mobile client using native Swift, RxSwift, Realm
+  -	Develop a chat client with multiple additional functions using Firebase ( now Firebase Realtime Database )
+  -	Handle smart links and solving smart link routing problems
+  -	Setting up a CI/CD pipeline using BuddyBuild
 
 Pardon to teammates who bear my problems: Hayley, Tarah worked as PM, Tu Nguyen worked as a designer, Bella worked as QA.
 
@@ -90,9 +91,14 @@ Bachelor of IT – Game design major
 -	Participate in the Vietnamese community as a President for 2 trimesters. Active member throughout the study period
 
 ## Readings / Experiments
-- Category theory for programmers: not finished, touched on some topic regarding basic category, how it’s related to programming, why it’s the ideal way of doing things. Really want to finish it sometimes soon due to its breadth and applicability.
-- The book of shader: writing & toying with some basic shader, render mostly 2D graphics and some liquid-like shader using 2D complex noise. Still struggle to render a 3d cube from scratch.
-- Finished Andrew Ng’s Machine Learning course on Coursera: all exercises were done with required marks. Got some understanding & intuition regarding matrix multiplication and the power of GPU.
+Category theory for programmers
+- Not finished, touched on some topic regarding basic category, how it’s related to programming, why it’s the ideal way of doing things. Really want to finish it sometimes soon due to its breadth and applicability.
+
+The book of shader
+- Writing & toying with some basic shader, render mostly 2D graphics and some liquid-like shader using 2D complex noise. Still struggle to render a 3d cube from scratch.
+
+Andrew Ng’s Machine Learning course on Coursera
+- All exercises were done with required marks. Got some understanding & intuition regarding matrix multiplication and the power of GPU.
 
 ## Opinions
 - Golang is good in teams with different levels of seniority levels. Very bad at addressing cross-cutting concerns of logic. Should have a better way to “merge” objects. go-pg are bad due to treating all null as zero values.
