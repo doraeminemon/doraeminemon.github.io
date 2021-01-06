@@ -20,46 +20,15 @@ pageClass: resume-class
 :::
 
 ## Personal statement
-Hi, my name is Thy Sơn, or you can just call me Tyson. Having worked on multiple projects and multiple teams, I see my strength is the ability to abstract problem, research it and find the most suitable existing solution. Beside that, effective writing & speaking communication, organizing data is a must when I have to work with my team remotely. What I'm still working on is my responsibility and carefulness while working with production system.
+Hi, my name is Thy Sơn, or you can just call me Tyson. Having worked on multiple projects and multiple teams, I see my strength is the ability to abstract problem, research it and find the most suitable solution. Beside that, effective writing & speaking communication, organizing data is a must when I have to work with my team remotely. What I'm still working on is my responsibility and carefulness while working with production system.
 
 Beside the original scope of a software engineer, I've been interested and learn about different-yet-related aspect of building software, including but not limited to: graphic / UX design, math, economics, business, psychology, politics.
-## Technical skill
-### Tools in use :
-Golang, NodeJS, tailwind-css, React, React Native ( iOS )
-### Mobile :
-- iOS Swift
-- iOS ObjectiveC
-- React Native
-### Frontends
-- React
-- Vue
-- Mobx
-- GraphQL
-### Backend
-- LaravelPHP
-- Golang
-- NodeJS Javascript
-- NodeJS Typescript
-- Django
-### Dev Ops
-- Docker, Kubernetes, Terraform
--	Microservices architecture using Docker and Docker-compose
-- CI / CD for React Native using Appcenter.ms
--	Firewall and subnet configuration in Google Cloud & AWS
-- Slackbot
-- N8N
-- Amazon Postgres RDS, Amazon S3, Amazon Cloudfront, Amazon Cloudwatch, Amazon EC2, Amazon DMS
-- Postgres, MySQL, Hasura Graphql engine
-### Others
--	TDD / BDD with native code ( Elixir, Mocha & Chai, Enzyme ) or tools ( Postman, Swagger, etc. )
--	E2E testing using Python Selenium,Cypress, integrate it with production environment using Docker and Concourse
--	Git standard
-
+## Tools in use
+Golang, NodeJS, Protobuf, tailwind-css, React, React Native ( iOS )
 ## Work experience
 ### Pickupp
-October 2019 - Present
+October 2019 - Present: Full stack developer solving last mile logistics problems in Hong Kong, Singapore, Malaysia & Taiwan.
 
-A lot of thanks to the teammate who got my back and helped me grow: Stan Ley, Clong & Lan Nguyen.
 - Delivery Agent’s Wallet features: database structure for calculating agent’s wallet balance, ensuring performance and accuracy using NodeJS ( requiring using exact-math, number-as-string to ensure calculation are correct despite JS’s floating point ). There are some problem along the way but my team & I have fixed it.
 
 - Data warehouse on Postgres using AWS’s Database Migration System ( WAL replication ): using terraform and some js script, created a system to pipe data from 4 regional databases into a single read-only warehouse, ensuring performance & reliability of data of the data warehouse and all regional databases.
@@ -68,37 +37,25 @@ A lot of thanks to the teammate who got my back and helped me grow: Stan Ley, Cl
 
 - Job-system clustering algorithm: implementing hierarchical clustering for a trip-grouping system, based on the “flying distance” between pickup & dropoff distance differences. This involve a smart ( math ) way of merging conditions of cluster instead of using typical “binary” logic.
 
+A lot of thanks to the teammate who got my back and helped me grow: Stan Ley, Clong & Lan Nguyen.
+
 ### InApps Technology
-May 2019 - Oct 2019
 
-A lof of thanks to Tri Nguyen - CTO and Tam Nguyen - CEO who supports me to deal with technical & management problems.
+May 2019 - Oct 2019: Back End Team Lead for multiple outsource projects, mostly CRUD web / mobile app: Deliverycontainers.com, Fanathon, Travelr
 
-Full Stack developer
 Manage team daily operation task.
 Support team on development and deploy using CI/CD, integrated with VueJS front end and NodeJS backend.
 Develop plan and framework for contigency as well as improve team efficiency.
 Weekly short seminar to improve team knowledge on debugging, problem solving and devops skill, as well as standardized team's framework and 3rd party dependencies.
 
-Oct 2018 - May 2019
+Oct 2018 - May 2019: Backend Engineer for SwiftEngine.io - Serverless Backend platform for Swift
 
-Backend Engineer / IT Offshore / Beta Particle – US
-Work as a developer to develop and deploy websites written in Swift¬¬
+Work as a developer to develop and deploy websites written in Swift, as well as ops related system.
 
-SwiftEngine is the first Serverless Swift Platform for web development.
-
-Products
-  -	https://swiftengine.io
-  -	https://play.swiftengine.io
-
-Technologies
-  -	Swift for Linux
-  -	Nginx
-  -	Docker
+A lof of thanks to Tri Nguyen - CTO and Tam Nguyen - CEO who supports me to deal with technical & management problems.
 
 ### Innovatube
-2016-July 2018
-
-Pardon to teammate who bear my problem: Hayley, Tarah worked as PM, Tu Nguyen worked as designer, Bella worked as QA.
+2016-July 2018: iOS Developer
 
 Shoubotenken project is a platform where building auditors can join, bid, and participate to audit projects in Japan
 -	Developing a mobile client using React Native, GraphQL, Mapbox
@@ -112,34 +69,16 @@ Shoubotenken project is a platform where building auditors can join, bid, and pa
 -	Develop a chat client with multiple additional functions using Firebase ( now Firebase Realtime Database )
 -	Handle smart links and solving smart link routing problems
 -	Setting up a CI/CD pipeline using BuddyBuild
+
+Pardon to teammate who bear my problems: Hayley, Tarah worked as PM, Tu Nguyen worked as designer, Bella worked as QA.
+
 ### JMango360
-2015-2016
+2015-2016: iOS Developer maintaining JMango360 iOS codebase.
 
-iOS Developer
 -	Maintaining old codebase written in Objective-C
--	Migrating a thousands lines code base from Objective-C to Swift, with dependencies such as ReactiveCocoa to RxSwift
--	Released a hobby project iOS app using Rails on Heroku to listing currency exchange fluctuation
+- Engage in agile scrum workflow for releasing features
 
-## Personal projects
-
-### Miracle Group website
-Got me toying with a lot of new tools tailwind-css, netlify/gatsby CMS, webgl shader. Sadly project got cut halfway due to client dropping contract. Got pretty far with Netlify CMS & Tailwind, these are both productive tools which can be used in production. WebGL is such a beast to master because it's related to OpenGL.
-
-### Vietnamese thesaurus – DongNghia.vn
--	Currently early stage
--	Classic RESTful website to experiment with Phoenix framework
--	PostgreSQL, HTTPS, Nginx
--	Deployed to AWS EC2
-
-### Currency converter and history tracking – Ty Gia Hang Ngay
--	Backend in Rails Heroku
--	iOS mobile front end with custom history chart
--	Cron job for daily scraping currency rate from Vietnamese bank websites
-
-## References
-Available upon request
-Mr. Tri Nguyen – InApps Tech Lead
-Mr. Eugene Nguyen – Innovatube Lead Project Manager
+Thanks to Mr. Tien who teach me Git & other developer tools, as well as thinking in RxCocoa / RxSwift.
 
 ## Education
 ### James Cook University Singapore
@@ -168,6 +107,10 @@ Bachelor of IT – Game design major
     - Elixir is have a lot of strength mentioned, but seems like still waiting for some big company to adopt
 
 ## Exhaustive list of projects & technologies
+- Pickupp platform : React, Redux, Mobx, React Native, NodeJS, Golang, Docker, N8N
+- Pickupp data warehouse : NodeJS scripting, Javascript, Postgresql, Terraform
+- ChildrenOf.vn : StrapiJS, React, Netlify
+- Miracle Group website ( abandoned ): TailWindCSS, React, GatsbyJS, NetlifyCMS
 - Jmango mobile app ( maintain ) : iOS ObjectiveC
 - Inploi ( maintain ) : iOS Swift RxSwift
 - 3Clicks : iOS Swift RxSwift
@@ -177,8 +120,6 @@ Bachelor of IT – Game design major
 - SwiftEngine ( maintain ) : Backend Swift, Docker
 - Pushtrain: Laravel PHP, VueJS, Javascript, Terraform, Docker, MySQL
 - DeliverContainers.com : VueJS, NodeJS, Typescript, Javascript, Docker, Postgres
-- Pickupp platform : React, Redux, Mobx, React Native, NodeJS, Golang, Docker
-- Pickupp data warehouse : NodeJS scripting, Javascript, Postgresql
 - Belazy : Django, Python
 
 ## Life achievements
