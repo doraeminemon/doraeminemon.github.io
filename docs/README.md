@@ -10,7 +10,7 @@ pageClass: resume-class
 ---
 <h1 class='display'> Đỗ Đình Thy Sơn </h1>
 <div class='subtitle'><em>Full-stack developer, 5 years experiences in multiple domain, fluent in JS & Golang</em></div>
-<div class='subtitle'><em>Reading time: 5 minutes 27 seconds</em></div>
+<div class='subtitle'><em>Reading time: 5 minutes 30 seconds</em></div>
 
 ::: contacts
 [LinkedIn](https://www.linkedin.com/in/đỗ-đình-thy-sơn-532b7886)
@@ -24,7 +24,7 @@ Hi, my name is Thy Sơn, or you can just call me Tyson. Having worked on multipl
 
 Besides the original scope of a software engineer, I've been interested and learn about different-yet-related aspects of building software, including but not limited to: graphic / UX design, math, economics, business, psychology, politics.
 ## Tools in use
-Golang, NodeJS, Protobuf, tailwind-css, React, React Native ( iOS )
+Golang, NodeJS, Protobuf, TailwindCSS, React, React Native ( iOS )
 ## Work experience
 ### Pickupp
 October 2019 - Present: Full stack developer solving last-mile logistics problems in Hong Kong, Singapore, Malaysia & Taiwan.
@@ -98,18 +98,19 @@ The book of shader
 - Writing & toying with some basic shader, render mostly 2D graphics and some liquid-like shader using 2D complex noise. Still struggle to render a 3d cube from scratch.
 
 Andrew Ng’s Machine Learning course on Coursera
-- All exercises were done with required marks. Got some understanding & intuition regarding matrix multiplication and the power of GPU.
+- All exercises were done with required marks. Got some understanding & intuition regarding matrix multiplication and the power of GPU. Finished and got a certificate from Coursera.
 
 ## Opinions
 - Golang is good in teams with different levels of seniority levels. Very bad at addressing cross-cutting concerns of logic. Should have a better way to “merge” objects. go-pg are bad due to treating all null as zero values.
 - NodeJS: flexible and can be powerful in the right hand. With some instructions & eslint conditions can be adapt to any team. Number is a big pain when the system needs to address the accuracy of numbers. Package ecosystem is in disarray because of too many people who think they are doing something new instead of search & contribute.
 - Functional programming beats OOP hands down, first for easy scaling when refactor, second for easy to debug system. FP with a strong type language is the best system for maintaining/refactoring. To quote functional programming - a pragpub anthology : “FP’s recognized good fit for concurrency appeals to people writing multi-processor apps, high-availability apps, web servers for the social network, and more. FP’s higher-level abstractions appeal to those looking for faster development time or more understandable code. FP’s emphasis on immutability has a strong appeal for anyone concerned about reliability.”
-- Within functional programming language, currently, there isn’t any language which satisfies all these:
+- Within functional programming language, currently ( 2019 ), there isn’t any language which satisfies all these:
     - Popular enough to have a healthy ecosystem ( including package, tooling, deployment service )
     - Have a good type system
     - Have a pipe operator
     - Typescript is the closest we can get to all 3
     - Elixir has a lot of strength mentioned but seems like still waiting for some big company to adopt
+- With the recent update of React to React Hooks ( 2022 ), React are at a spot where it's really close to proper functional programming now. The templating part are essentially stateless and we don't have to relied onto any Object lifecycle like before / after mount. There is just a little problem with event passing between different components now and it can be solve much elegantly than before with React-Redux. Comparing the state of the ecosystem, Phoenix LiveView or Svelte is at a much better place where event and message passing are an essential part of the ecosystem. LiveView with heex or Surface template can pretty much replace a front end framework anytime without sacrificing any development time.
 
 ## Exhaustive list of projects & technologies
 - Pickupp platform : React, Redux, Mobx, React Native, NodeJS, Golang, Docker, N8N
@@ -126,8 +127,5 @@ Andrew Ng’s Machine Learning course on Coursera
 - Pushtrain: Laravel PHP, VueJS, Javascript, Terraform, Docker, MySQL
 - DeliverContainers.com : VueJS, NodeJS, Typescript, Javascript, Docker, Postgres
 - Belazy : Django, Python
-
-## Life achievements
-
-- Gaining ~20kg of weight since 2015 years old. Maintain good body composition throughout the process.
-- Stable salary & skill growth rate since the start of my career.
+- Memos to us: NextJS, TailwindCSS, ReactJS, Phoenix 1.6, AWS Lightsail
+- Web3 Hello world: Web3JS, EtherJS, ReactJS, TailwindCSS
