@@ -5,11 +5,11 @@ meta:
   - name: description
     content: My personal experience
   - name: keywords
-    content: full-stack engineer software developer full stack developer docker react native nodejs golang
+    content: full-stack engineer software developer full stack developer docker react native nodejs golang elixir
 pageClass: resume-class
 ---
 <h1 class='display'> Đỗ Đình Thy Sơn </h1>
-<div class='subtitle'><em>Full-stack developer, 5 years experiences in multiple domain, fluent in JS & Golang</em></div>
+<div class='subtitle'><em>Full-stack developer, 6 years experiences in multiple domain, fluent in JS, Golang & Elixir</em></div>
 <div class='subtitle'><em>Reading time: 5 minutes 30 seconds</em></div>
 
 ::: contacts
@@ -20,14 +20,14 @@ pageClass: resume-class
 [Email](mailto:dodinhthyson@gmail.com)
 :::
 ## Personal statement
-Hi, my name is Thy Sơn, or you can just call me Tyson. Having worked on multiple projects and multiple teams, I see my strength is the ability to abstract problems, research it, and find the most suitable solution. Besides that, effective writing & speaking communication, organizing data is a must when I have to work with my team remotely. What I'm still working on is my responsibility and carefulness while working with the production system.
+Hi, my name is Thy Sơn, or you can just call me Tyson. Having worked on multiple projects and multiple teams, I see my strength is the ability to abstract problems, research it, and find the most suitable solution. Besides that, effective writing & speaking communication, organizing data is a must when I have to work with my team remotely. My goal for the next few years is to become an engineering manager.
 
 Besides the original scope of a software engineer, I've been interested and learn about different-yet-related aspects of building software, including but not limited to: graphic / UX design, math, economics, business, psychology, politics.
 ## Tools in use
-Golang, NodeJS, Protobuf, TailwindCSS, React, React Native ( iOS )
+Golang, NodeJS, Protobuf, TailwindCSS, React, React Native ( iOS ), Elixir
 ## Work experience
 ### Pickupp
-October 2019 - Present: Full stack developer solving last-mile logistics problems in Hong Kong, Singapore, Malaysia & Taiwan.
+October 2019 - Jan 2022: Full stack developer solving last-mile logistics problems in Hong Kong, Singapore, Malaysia & Taiwan.
 
 - Delivery Agent’s Wallet features: database structure for calculating agent’s wallet balance, ensuring performance and accuracy using NodeJS ( requiring using exact-math, number-as-string to ensure calculation are correct despite JS’s floating point ). There are some problems along the way but my team & I have fixed them.
 
@@ -35,7 +35,7 @@ October 2019 - Present: Full stack developer solving last-mile logistics problem
 
 - Product split refactor: with a lot of help from teammates, I sketch out the major structure for a big refactor for the “order state” within the system to allow different delivery product types to be build up from the original. This system is similar to a state-machine where depends on the original state + conditions of the order, which will allow certain next-state to be achieved. The new system also makes it easier to re-use parts of the transition & enhance code readability. It's still far from the ideal "pure function" that I've set out but still one of my best works.
 
-- Job-system clustering algorithm: implementing hierarchical clustering for a trip-grouping system, based on the “flying distance” between pickup & dropoff distance differences. This involves a smart ( math ) way of merging conditions of clusters instead of using typical “binary” logic.
+- Job-system clustering algorithm: implementing hierarchical clustering for a trip-grouping system, based on the “flying distance” between pickup & dropoff distance differences. The logic for this is mostly based on k-means clustering logic for points in 2d plane.
 
 A lot of thanks to the teammate who got my back and helped me grow: Stan Ley, Clong & Lan Nguyen.
 
@@ -129,3 +129,4 @@ Andrew Ng’s Machine Learning course on Coursera
 - Belazy : Django, Python
 - Memos to us: NextJS, TailwindCSS, ReactJS, Phoenix 1.6, AWS Lightsail
 - Web3 Hello world: Web3JS, EtherJS, ReactJS, TailwindCSS
+- Personal stock trading bot: Phoenix, Elixir, TailwindCSS, Postgresql, Python
