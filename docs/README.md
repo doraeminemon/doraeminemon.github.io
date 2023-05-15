@@ -26,8 +26,14 @@ Besides the original scope of a software engineer, I've been interested and lear
 ## Tools in use
 Golang, NodeJS, Protobuf, TailwindCSS, React, React Native ( iOS ), Elixir
 ## Work experience
+
+### Doyobi
+Jan 2022 - Nov 2022: Full stack developer developing real time metaverse to teach children through the metaverse
+- Technology used: Javascript, React, Elixir, NextJS, Jest, FramerMotion
+
 ### Pickupp
 October 2019 - Jan 2022: Full stack developer solving last-mile logistics problems in Hong Kong, Singapore, Malaysia & Taiwan.
+- Technology used: NodeJS, React, React Native, Golang
 
 - Delivery Agent’s Wallet features: database structure for calculating agent’s wallet balance, ensuring performance and accuracy using NodeJS ( requiring using exact-math, number-as-string to ensure calculation are correct despite JS’s floating point ). There are some problems along the way but my team & I have fixed them.
 
@@ -40,8 +46,8 @@ October 2019 - Jan 2022: Full stack developer solving last-mile logistics proble
 A lot of thanks to the teammate who got my back and helped me grow: Stan Ley, Clong & Lan Nguyen.
 
 ### InApps Technology
-
 May 2019 - Oct 2019: Back End Team Lead for multiple outsource projects, mostly CRUD web / mobile app: Deliverycontainers.com, Fanathon, Travelr
+- Technology used: NodeJS, React, React Native, PHP, Swift, Vue
 
 - Manage team daily operation tasks.
 - Support team on development and deploy tasks using CI/CD, integrated with VueJS front end and NodeJS backend.
@@ -56,6 +62,7 @@ A lot of thanks to Tri Nguyen - CTO and Tam Nguyen - CEO who supports me to deal
 
 ### Innovatube
 2016-July 2018: iOS Developer
+- Technology used: NodeJS, React, React Native, PHP, Swift
 
 - Shoubotenken project is a platform where building auditors can join, bid, and participate in audit projects in Japan
   -	Developing a mobile client using React Native, GraphQL, Mapbox
@@ -74,6 +81,7 @@ Pardon to teammates who bear my problems: Hayley, Tarah worked as PM, Tu Nguyen 
 
 ### JMango360
 2015-2016: iOS Developer maintaining JMango360 iOS codebase.
+- Technology used: Ruby on Rails, Swift
 
 -	Maintaining old codebase written in Objective-C
 - Engage in agile scrum workflow for releasing features
