@@ -29,19 +29,31 @@ Golang, NodeJS, Protobuf, TailwindCSS, React, React Native ( iOS ), Elixir
 
 ### Doyobi
 Jan 2022 - Nov 2022: Full stack developer developing real time metaverse to teach children through the metaverse
-- Technology used: Javascript, React, Elixir, NextJS, Jest, FramerMotion
+- Technology used: Javascript, React, Elixir, NextJS, Figma
+#### Responsibilities
+- Metaverse feature: building a game-like platform which allows multiple people to join and interact with each other and the environment. Also built a system to allow admin to import their maps into the game to teach children through multiplayer adventure with guidance.
+- Designing database schema, implement backend services for syncing player state.
+- Building the deployment and containerization system.
+- Code review and writing documentation for each and every part of the features.
+- Discuss and designing the UX / UI of the metaverse with the team.
+- Write unit testing and ensure unit test coverage on the whole project.
 
 ### Pickupp
 October 2019 - Jan 2022: Full stack developer solving last-mile logistics problems in Hong Kong, Singapore, Malaysia & Taiwan.
-- Technology used: NodeJS, React, React Native, Golang
+- Technology used: NodeJS, React, React Native, Golang, Jest
 
-- Delivery Agent’s Wallet features: database structure for calculating agent’s wallet balance, ensuring performance and accuracy using NodeJS ( requiring using exact-math, number-as-string to ensure calculation are correct despite JS’s floating point ). There are some problems along the way but my team & I have fixed them.
+#### Responsibilities
+- Discuss with the team to design most of the features from scratch; discuss and review with operation team so that every features meet its requirement on timeline and usability as well as performance.
 
-- Data warehouse on Postgres using AWS’s Database Migration System ( WAL replication ): using terraform and some js script, created a system to pipe data from 4 regional databases into a single read-only warehouse, ensuring performance & reliability of data of the data warehouse and all regional databases.
+- Delivery Agent’s Wallet features: design the database structure for calculating agent’s wallet balance, ensuring performance and accuracy using NodeJS. Discussion with the team to design the database structure as well as selecting the library fitting for the task.
+
+- Data warehouse on Postgres using AWS’s Database Migration System ( WAL replication ): using terraform and some js script ( NodeJS, ReactJS ), created a system to pipe data from 4 regional databases into a single read-only warehouse, ensuring performance & reliability of data of the data warehouse ( containing at least 2m orders ) and all regional databases.
 
 - Product split refactor: with a lot of help from teammates, I sketch out the major structure for a big refactor for the “order state” within the system to allow different delivery product types to be build up from the original. This system is similar to a state-machine where depends on the original state + conditions of the order, which will allow certain next-state to be achieved. The new system also makes it easier to re-use parts of the transition & enhance code readability. It's still far from the ideal "pure function" that I've set out but still one of my best works.
 
 - Job-system clustering algorithm: implementing hierarchical clustering for a trip-grouping system, based on the “flying distance” between pickup & dropoff distance differences. The logic for this is mostly based on k-means clustering logic for points in 2d plane.
+
+- Using Jest and Mocha for unit test for the whole project.
 
 A lot of thanks to the teammate who got my back and helped me grow: Stan Ley, Clong & Lan Nguyen.
 
@@ -49,6 +61,7 @@ A lot of thanks to the teammate who got my back and helped me grow: Stan Ley, Cl
 May 2019 - Oct 2019: Back End Team Lead for multiple outsource projects, mostly CRUD web / mobile app: Deliverycontainers.com, Fanathon, Travelr
 - Technology used: NodeJS, React, React Native, PHP, Swift, Vue
 
+#### Responsibilities
 - Manage team daily operation tasks.
 - Support team on development and deploy tasks using CI/CD, integrated with VueJS front end and NodeJS backend.
 - Develop plan and framework for contingency as well as improve team efficiency.
@@ -64,6 +77,7 @@ A lot of thanks to Tri Nguyen - CTO and Tam Nguyen - CEO who supports me to deal
 2016-July 2018: iOS Developer
 - Technology used: NodeJS, React, React Native, PHP, Swift
 
+#### Responsibilities
 - Shoubotenken project is a platform where building auditors can join, bid, and participate in audit projects in Japan
   -	Developing a mobile client using React Native, GraphQL, Mapbox
   -	Using a custom template to render more than 100s of forms, along with their documents
@@ -83,8 +97,10 @@ Pardon to teammates who bear my problems: Hayley, Tarah worked as PM, Tu Nguyen 
 2015-2016: iOS Developer maintaining JMango360 iOS codebase.
 - Technology used: Ruby on Rails, Swift
 
+#### Responsibilities
 -	Maintaining old codebase written in Objective-C
 - Engage in agile scrum workflow for releasing features
+- Learning to use git and basic concepts of software engineering: source control, collaboration, designing features ...
 
 Thanks to Mr. Tien who teach me Git & other developer tools, as well as thinking in RxCocoa / RxSwift.
 
@@ -121,7 +137,7 @@ Andrew Ng’s Machine Learning course on Coursera
 - With the recent update of React to React Hooks ( 2022 ), React are at a spot where it's really close to proper functional programming now. The templating part are essentially stateless and we don't have to relied onto any Object lifecycle like before / after mount. There is just a little problem with event passing between different components now and it can be solve much elegantly than before with React-Redux. Comparing the state of the ecosystem, Phoenix LiveView or Svelte is at a much better place where event and message passing are an essential part of the ecosystem. LiveView with heex or Surface template can pretty much replace a front end framework anytime without sacrificing any development time.
 
 ## Exhaustive list of projects & technologies
-- Pickupp platform : React, Redux, Mobx, React Native, NodeJS, Golang, Docker, N8N
+- Pickupp platform : React, Redux, Mobx, React Native, NodeJS, Golang, Docker, N8N, Jest for automate testing
 - Pickupp data warehouse : NodeJS scripting, Javascript, Postgresql, Terraform
 - ChildrenOf.vn : StrapiJS, React, Netlify
 - Miracle Group website ( abandoned ): TailWindCSS, React, GatsbyJS, NetlifyCMS
