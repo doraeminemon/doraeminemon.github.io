@@ -9,7 +9,7 @@ meta:
 pageClass: resume-class
 ---
 <h1 class='display'> Đỗ Đình Thy Sơn </h1>
-<div class='subtitle'><em>Full-stack developer, 6 years experiences in multiple domain, fluent in JS, Golang & Elixir</em></div>
+<div class='subtitle'><em>Full-stack developer, 7+ years experiences in multiple domain, fluent in JS, Golang & ReactJS</em></div>
 <div class='subtitle'><em>Reading time: 5 minutes 30 seconds</em></div>
 
 ::: contacts
@@ -20,7 +20,7 @@ pageClass: resume-class
 [Email](mailto:dodinhthyson@gmail.com)
 :::
 ## Personal statement
-Hi, my name is Thy Sơn, or you can just call me Tyson. Having worked on multiple projects and multiple teams, I see my strength is the ability to abstract problems, research it, and find the most suitable solution. Besides that, effective writing & speaking communication, organizing data is a must when I have to work with my team remotely. My goal for the next few years is to become an engineering manager.
+Hi, my name is Thy Sơn, or you can just call me Tyson. Having worked on multiple projects and multiple teams, I see my strength on working with the team to build a feature from start to finish by working with different team. Besides that, effective writing & speaking communication, organizing data is a must when I have to work with my team remotely. My goal for the next few years is to become an engineering manager.
 
 Besides the original scope of a software engineer, I've been interested and learn about different-yet-related aspects of building software, including but not limited to: graphic / UX design, math, economics, business, psychology, politics.
 ## Tools in use
