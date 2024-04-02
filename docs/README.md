@@ -38,7 +38,8 @@ Golang, NodeJS, Protobuf, TailwindCSS, React, React Native ( iOS ), Elixir
 Jul 2023 - Present: Technical architect working for Australian insurance client.
 
 - Help supporting other team members and provide guidance for juniors
-- Finish all tasks related to First Rescue, learn a lot, won a Hackathon
+- Finish all tasks related to First Rescue
+- Learn new social skill, won a Hackathon
 - Technology used: NodeJS, NestJS, Typescript, Javascript, NextJS, AWS
 
 #### Responsibilities
