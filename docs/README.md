@@ -37,6 +37,7 @@ Golang, NodeJS, Protobuf, TailwindCSS, React, React Native ( iOS ), Elixir
 
 Jul 2023 - Present: Technical architect working for Australian insurance client.
 
+- Help supporting other team members and provide guidance for juniors
 - Technology used: NodeJS, NestJS, Typescript, Javascript, NextJS, AWS
 
 #### Responsibilities
