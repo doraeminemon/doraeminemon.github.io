@@ -10,7 +10,7 @@ pageClass: resume-class
 ---
 
 <h1 class='display'> Đỗ Đình Thy Sơn </h1>
-<div class='subtitle'><em>Full-stack developer, 7+ years experiences in multiple domain, fluent in JS, Golang & ReactJS</em></div>
+<div class='subtitle'><em>Full-stack developer, 8+ years experiences in multiple domain, fluent in JS, Golang & ReactJS</em></div>
 <div class='subtitle'><em>Reading time: 5 minutes 30 seconds</em></div>
 
 ::: contacts
@@ -23,7 +23,7 @@ pageClass: resume-class
 
 ## Personal statement
 
-Hi, my name is Thy Sơn, or you can just call me Tyson. Having worked on multiple projects and multiple teams, I see my strength on working with the team to build a feature from start to finish by working with different team. Besides that, effective writing & speaking communication, organizing data is a must when I have to work with my team remotely. My goal for the next few years is to become an engineering manager.
+Hi, my name is Thy Sơn, or you can just call me Tyson. Having worked on different projects and variety of teams, I see my strength on working with teams to build a feature from start to finish by working with different team. Besides that, effective writing & speaking communication, organizing data is a must when working with my team remotely. My goal for the next few years is to become a tech lead.
 
 Besides the original scope of a software engineer, I've been interested and learn about different-yet-related aspects of building software, including but not limited to: graphic / UX design, math, economics, business, psychology, politics.
 
@@ -40,7 +40,7 @@ Jul 2023 - Present: Technical architect working for Australian insurance client.
 - Help supporting other team members and provide guidance for juniors
 - Finish all tasks related to First Rescue
 - Learn new social skill, won a Hackathon
-- Technology used: NodeJS, NestJS, Typescript, Javascript, NextJS, AWS
+- Tech stack: NodeJS, NestJS, Typescript, Javascript, NextJS, AWS
 
 #### Responsibilities
 
@@ -53,7 +53,7 @@ Jul 2023 - Present: Technical architect working for Australian insurance client.
 
 Jan 2022 - Nov 2022: Full stack developer developing real time metaverse to teach children through the metaverse
 
-- Technology used: Javascript, React, Elixir, NextJS, Figma
+- Tech stack: Javascript, React, Elixir, NextJS, Figma
 
 #### Responsibilities
 
@@ -68,7 +68,7 @@ Jan 2022 - Nov 2022: Full stack developer developing real time metaverse to teac
 
 October 2019 - Jan 2022: Full stack developer solving last-mile logistics problems in Hong Kong, Singapore, Malaysia & Taiwan.
 
-- Technology used: NodeJS, React, React Native, Golang, Jest
+- Tech stack: NodeJS, React, React Native, Golang, Jest
 
 #### Responsibilities
 
@@ -90,7 +90,7 @@ A lot of thanks to the teammate who got my back and helped me grow: Stan Ley, Cl
 
 May 2019 - Oct 2019: Back End Team Lead for multiple outsource projects, mostly CRUD web / mobile app: Deliverycontainers.com, Fanathon, Travelr
 
-- Technology used: NodeJS, React, React Native, PHP, Swift, Vue
+- Tech stack: NodeJS, React, React Native, PHP, Swift, Vue
 
 #### Responsibilities
 
@@ -109,7 +109,7 @@ A lot of thanks to Tri Nguyen - CTO and Tam Nguyen - CEO who supports me to deal
 
 2016-July 2018: iOS Developer
 
-- Technology used: NodeJS, React, React Native, PHP, Swift
+- Tech stack: NodeJS, React, React Native, PHP, Swift
 
 #### Responsibilities
 
@@ -133,7 +133,7 @@ Pardon to teammates who bear my problems: Hayley, Tarah worked as PM, Tu Nguyen 
 
 2015-2016: iOS Developer maintaining JMango360 iOS codebase.
 
-- Technology used: Ruby on Rails, Swift
+- Tech stack: Ruby on Rails, Swift
 
 #### Responsibilities
 
