@@ -177,10 +177,12 @@ Andrew Ng’s Machine Learning course on Coursera
 
 ## Exhaustive list of projects & technologies
 
+- First Rescue: React, NodeJS
+- Doyobi: Elixir, Phoenix, Phaser.io, Javascript, Webpack
 - Pickupp platform : React, Redux, Mobx, React Native, NodeJS, Golang, Docker, N8N, Jest for automate testing
 - Pickupp data warehouse : NodeJS scripting, Javascript, Postgresql, Terraform
 - ChildrenOf.vn : StrapiJS, React, Netlify
-- Miracle Group website ( abandoned ): TailWindCSS, React, GatsbyJS, NetlifyCMS
+- Miracle Group website: TailWindCSS, React, GatsbyJS, NetlifyCMS
 - Jmango mobile app ( maintain ) : iOS ObjectiveC
 - Inploi ( maintain ) : iOS Swift RxSwift
 - 3Clicks : iOS Swift RxSwift
