@@ -6,8 +6,8 @@ if (process.env.PDF_MODE && process.env.PDF_MODE == true) {
 const config = {
   title: "Đỗ Đình Thy Sơn",
   description: "Software engineer",
-  head:[
-    ['link', { href:'https://fonts.googleapis.com/css?family=Josefin+Sans:600i&amp;subset=vietnamese', rel:'stylesheet'}]
+  head: [
+    ['link', { href: 'https://fonts.googleapis.com/css?family=Josefin+Sans:600i&amp;subset=vietnamese', rel: 'stylesheet' }]
   ],
   themeConfig: {
     nav: [
@@ -21,6 +21,10 @@ const config = {
     lastUpdated: 'Last Updated',
   },
   plugins: [
+    {
+      test: /\.(woff|woff2|eot|ttf|otf)$/i,
+      type: 'asset/fonts',
+    },
     [
       'container',
       {
@@ -51,4 +55,5 @@ const config = {
 module.exports = {
   ...config,
   ...pdf,
+  theme: 'vuepress-theme-minhon'
 }
