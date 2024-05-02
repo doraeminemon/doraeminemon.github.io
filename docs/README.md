@@ -10,7 +10,7 @@ pageClass: resume-class
 ---
 
 <div style="display: flex; gap: 2rem;">
-  <img style="padding-top: 0.5rem" src="../assets/img/Portrait.jpg" width="200" height="200">
+  <img style="padding-top: 0.5rem" src="../assets/img/Portrait.jpg" width="180" height="180">
   <div>
     <h1 class='display' style="line-height:1rem"> Đỗ Đình Thy Sơn </h1>
     <div class='subtitle'><em>Full-stack developer, 8+ years experiences in multiple domain, fluent in JS, Golang & ReactJS</em></div>
@@ -35,7 +35,7 @@ Besides the original scope of a software engineer, I've been interested and lear
 
 ## Tools in use
 
-Golang, NodeJS, Protobuf, TailwindCSS, React, React Native ( iOS ), Elixir
+Golang, NodeJS, Protobuf, TailwindCSS, React, React Native ( iOS ), Gleam
 
 ## Work experience
 
