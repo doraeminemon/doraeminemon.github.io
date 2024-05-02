@@ -9,9 +9,12 @@ meta:
 pageClass: resume-class
 ---
 
-<h1 class='display'> Đỗ Đình Thy Sơn </h1>
-<div class='subtitle'><em>Full-stack developer, 8+ years experiences in multiple domain, fluent in JS, Golang & ReactJS</em></div>
-<div class='subtitle'><em>Reading time: 5 minutes 30 seconds</em></div>
+<div style="display: flex; gap: 2rem;">
+  <img style="padding-top: 0.5rem" src="../assets/img/Portrait.jpg" width="200" height="200">
+  <div>
+    <h1 class='display' style="line-height:1rem"> Đỗ Đình Thy Sơn </h1>
+    <div class='subtitle'><em>Full-stack developer, 8+ years experiences in multiple domain, fluent in JS, Golang & ReactJS</em></div>
+    <div class='subtitle'><em>Reading time: 5 minutes 30 seconds</em></div>
 
 ::: contacts
 [LinkedIn](https://www.linkedin.com/in/đỗ-đình-thy-sơn-532b7886)
@@ -20,6 +23,9 @@ pageClass: resume-class
 |
 [Email](mailto:dodinhthyson@gmail.com)
 :::
+
+  </div>
+</div>
 
 ## Personal statement
 
