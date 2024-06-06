@@ -35,13 +35,22 @@ Besides the original scope of a software engineer, I've been interested and lear
 
 ## Tools in use
 
-Golang, NodeJS, Protobuf, TailwindCSS, React, React Native ( iOS ), Gleam
+Golang, NodeJS, TailwindCSS, NextJS, React, Vue, Gleam, Typescript
 
 ## Work experience
 
 ### FPT Software
 
-Jul 2023 - Present: Technical architect working for Australian insurance client.
+Jul 2023 - Present: Technical architect working for multiple projects.
+
+LG CNS - Web image editor project:
+
+- Working for a Korean client.
+- Working as a technical front end role.
+- Help guiding other junior members.
+- Tech stack: Vue, Typescript, Javascript, PikasoJS, KonvaJS.
+
+IAG - Australian insurance client:
 
 - Help supporting other team members and provide guidance for juniors
 - Finish all tasks related to First Rescue
