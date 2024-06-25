@@ -43,6 +43,13 @@ Golang, NodeJS, TailwindCSS, NextJS, React, Vue, Gleam, Typescript
 
 Jul 2023 - Present: Technical architect working for multiple projects.
 
+Cloud & Big data hackathon:
+
+- Winning as the champion for the Cloud & Data hackathon project.
+- Guiding and helping other members on what direction project should take, from design to implementation.
+- Leverage new LLM & Gen AI technology by using Azure Speech API and OpenAI API
+- Tech stack: NextJS, ReactJS, Typescript, Javascript, OpenAI.
+
 LG CNS - Web image editor project:
 
 - Working for a Korean client.
